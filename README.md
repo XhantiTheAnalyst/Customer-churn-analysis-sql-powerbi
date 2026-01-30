@@ -9,7 +9,7 @@ bank_churn_messy.xlsx – original messy dataset, split across two sheets
 
 customers.xlsx – cleaned and merged dataset using Power Query, with duplicates removed
 
-bank_churn_analysis_script.sql – SQL script for creating the customer table, transforming data, and generating derived fields (ChurnCategory, CustomerSegment)
+bank_churn_analysis_script.sql – SQL script for manipulating the data in the customer table, transforming data, and generating derived fields (ChurnCategory, CustomerSegment)
 
 churn_dashboard.pbix – interactive Power BI dashboard
 
