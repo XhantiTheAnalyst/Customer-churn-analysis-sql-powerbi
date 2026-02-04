@@ -1,7 +1,7 @@
 **Customer Churn Analysis: SQL & Power BI**
 Overview
 
-This project demonstrates an end-to-end Business Intelligence workflow analyzing bank customer churn. The goal was to understand churn behavior, identify high-risk customer segments, and present actionable insights through an interactive Power BI dashboard.
+This project demonstrates an end-to-end Business Intelligence workflow analyzing bank customer churn. The objective of this project was to analyze bank customer churn to identify high-risk segments, uncover key drivers of churn, and support data-driven retention strategies.
 
 Files
 
